@@ -1,0 +1,106 @@
+<mxfile host="app.diagrams.net" modified="2024-08-08T13:31:54.004Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="e-bP0GLSAFsVgW6HXyr0" version="22.1.21" type="device">
+  <diagram name="Page-1" id="e3TqY7cVisDOoWZ_kfNG">
+    <mxGraphModel dx="2699" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="08p067uLWIxx4SRDrt_m-1" value="ENGLISH&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="70" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="08p067uLWIxx4SRDrt_m-2" value="Aerospike" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="230" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="08p067uLWIxx4SRDrt_m-3" value="Git" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="530" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="08p067uLWIxx4SRDrt_m-4" value="sql:&lt;br&gt;https://sql-ex.ru/" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="670" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="08p067uLWIxx4SRDrt_m-5" value="Prometheus" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="230" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="08p067uLWIxx4SRDrt_m-6" value="RabbitMQ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="380" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="08p067uLWIxx4SRDrt_m-7" value="swarm/podman" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="70" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="08p067uLWIxx4SRDrt_m-8" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="70" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="08p067uLWIxx4SRDrt_m-9" value="Docker + Compose" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="230" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="08p067uLWIxx4SRDrt_m-11" value="tarantool" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="380" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="08p067uLWIxx4SRDrt_m-12" value="opentelemetry&lt;br&gt;jaeger" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="380" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="08p067uLWIxx4SRDrt_m-13" value="oracle/mysql" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="230" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="08p067uLWIxx4SRDrt_m-14" value="postgres:&lt;br&gt;indexes&lt;br&gt;планировщик" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="830" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="08p067uLWIxx4SRDrt_m-15" value="Patterns:&lt;br&gt;GOF&lt;br&gt;Microservices&lt;br&gt;Concurrencey&lt;br&gt;Parrallel&lt;br&gt;Enterprise&lt;br&gt;Distributed&lt;br&gt;Other like Haskell" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="20" width="120" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="08p067uLWIxx4SRDrt_m-17" value="Архитектура:&lt;br&gt;TOGAF&lt;br&gt;Hexagen&lt;br&gt;Clean&lt;br&gt;DDD&lt;br&gt;Api design&lt;br&gt;System design&lt;br&gt;Balun" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="20" width="140" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="08p067uLWIxx4SRDrt_m-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="08p067uLWIxx4SRDrt_m-18" target="08p067uLWIxx4SRDrt_m-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="08p067uLWIxx4SRDrt_m-18" value="Kafka" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="70" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="08p067uLWIxx4SRDrt_m-19" value="go-migrate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="70" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="08p067uLWIxx4SRDrt_m-20" value="Regexp" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="230" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="08p067uLWIxx4SRDrt_m-38" value="k&amp;amp;s" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="830" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="08p067uLWIxx4SRDrt_m-39" value="front vue" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="540" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="08p067uLWIxx4SRDrt_m-41" value="собесы" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="670" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="08p067uLWIxx4SRDrt_m-42" value="Алгоритмы" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="08p067uLWIxx4SRDrt_m-43" value="статьи и курсы self" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="670" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="08p067uLWIxx4SRDrt_m-44" value="websockets" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="380" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="08p067uLWIxx4SRDrt_m-45" value="Mail course - stepik&lt;br&gt;back course" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="20" width="180" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="08p067uLWIxx4SRDrt_m-46" value="grpc" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="530" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="08p067uLWIxx4SRDrt_m-47" value="отказоустойчивые распределенные системы" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="08p067uLWIxx4SRDrt_m-48" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="08p067uLWIxx4SRDrt_m-51" value="clickhouse" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="08p067uLWIxx4SRDrt_m-52" value="minio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="530" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="08p067uLWIxx4SRDrt_m-53" value="Code reading" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
